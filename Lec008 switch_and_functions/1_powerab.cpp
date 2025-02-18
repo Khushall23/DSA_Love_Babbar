@@ -20,4 +20,6 @@ int main(){
     cout << "power (5,2) is :", int(power(5,2));
     int x = power(5,2);
     cout << x;
+
+    return 0;
 }
